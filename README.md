@@ -36,8 +36,8 @@ lib/
    - `daily.weather_code`, `daily.temperature_2m_max`, `daily.temperature_2m_min`, `daily.precipitation_probability_max`
 
 ## Screenshot Aplikasi
-*(Tambahkan screenshot setiap screen di sini sebelum dikumpulkan)*
 
-- **Landing Screen:** `<!-- ![Landing Screen](screenshots/landing.png) -->`
-- **Home / Weather Screen:** `<!-- ![Home Screen](screenshots/home.png) -->`
-- **Search / Location Screen:** `<!-- ![Search Screen](screenshots/search.png) -->`
+| Landing Screen | Home / Weather Screen | Search / Location Screen |
+| :---: | :---: | :---: |
+| <img src="screenshots/landing_screen.jpg" width="260" alt="Landing Screen" /> | <img src="screenshots/home_screen.jpg" width="260" alt="Home Screen" /> | <img src="screenshots/search_screen.png" width="260" alt="Search Screen" /> |
+| *Halaman pembuka aplikasi CuacaKu* | *Informasi cuaca terkini & harian (Kota Bekasi)* | *Fitur pencarian kota & bookmark favorit (Siborongborong)* |
